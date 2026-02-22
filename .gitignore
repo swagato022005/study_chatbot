@@ -1,0 +1,4 @@
+.env
+.studybot
+_pycache_
+*/**DS_Store
